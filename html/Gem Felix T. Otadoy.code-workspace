@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/duo-studio-main"
+		},
+		{
+			"path": "../../../Downloads/two-good-co-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Gem Felix T. Otadoy"
+	}
+}
